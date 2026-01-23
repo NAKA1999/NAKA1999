@@ -4,17 +4,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Analyst+SIG+%7C+GéoData+Scientist;Passionné+de+données+spatiales;Python+%7C+QGIS+%7C+PostgreSQL;Cartographie+%26+Machine+Learning;Bienvenue+dans+mon+univers+🌐&center=true&width=600&height=45&color=00B4DB">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Geomaticien+Analyst+SIG+%7C+GéoData+Scientist;Passionné+de+données+spatiales;Python+%7C+QGIS+%7C+PostgreSQL;Cartographie+%26+Machine+Learning;Bienvenue+dans+mon+univers+🌐&center=true&width=600&height=45&color=00B4DB">
 </p>
 
 <p align="center">
-  <a href="https://github.com/NAKA1999/NAKA1999/blob/main/CV_Stage_Anicet_NZOUMAFO-IT.pdf" target="_blank">
+  <a href="https://github.com/NAKA1999/NAKA1999/blob/main/CV_Anicet_STAGE_2026" target="_blank">
     <img src="https://img.shields.io/badge/📄 Télécharger%20mon%20CV-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
   </a>
   <a href="mailto:nzoumafoanicet@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/📬%20Me%20contacter-1E90FF?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/Anicet%20NZOUMAFO" target="_blank">
+  <a href="https://www.linkedin.com/in/geodata-anicet-nzoumafo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Anicet%20NZOUMAFO-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
@@ -26,11 +26,11 @@
 ---
 
 ## 👋 Salut, moi c’est **Anicet NZOUMAFO**
-> 🛰️ Analyste SIG & GéoData Scientist passionné par la donnée spatiale, la cartographie intelligente et la science de l’information géographique.
+> 🛰️ Je me spécialise à l'intersection de l'analyse de données massives, des SIG et de la modélisation prédictive. Mon expertise consiste à traiter des flux géospatiaux complexes pour en extraire des tendances et des prévisions fiables. Mon objectif est de transformer la donnée spatiale en un véritable outil d'aide à la décision stratégique, capable d'anticiper les enjeux de demain.
 
-🎓 Étudiant en **Master GéoData (Science de la donnée spatiale)** à l’Université d’Orléans & OSUC  
-📍 Basé à **Orléans (France)** — Mobile sur tout le territoire  
-🌐 Objectif : *valoriser la donnée géographique pour comprendre, prédire et agir durablement.*
+🎓 Étudiant en **Master GéoData (Science de la donnée spatiale)** à l’Université d’Orléans/OSUC  
+📍 Basé à **Orléans (France)** - Mobile sur tout le territoire Francais  
+🌐 Mes Objectifs : *valoriser la donnée géographique pour comprendre, prédire et agir durablement.*
 
 ---
 
@@ -38,7 +38,7 @@
 🗺️ **Analyse & visualisation spatiale** — QGIS, ArcGIS, ENVI, PIX4D  
 📊 **Data Science appliquée** — Python (GeoPandas, Folium, Matplotlib)  
 🧠 **Machine Learning géospatial** — détection d’anomalies, clustering spatial, interpolation  
-💻 **Développement Web SIG** — Leaflet.js, Flask, Dash  
+💻 **Développement Web SIG** — Leaflet.js, Javascript, Dash  
 📡 **Bases de données spatiales** — PostgreSQL/PostGIS, SQL, R  
 
 ---
@@ -46,7 +46,7 @@
 ### 💡 Mes valeurs
 > Curiosité — Créativité — Collaboration — Impact
 
-J’aime traduire des données complexes en **cartes claires et intelligentes** 🌍.  
+J’aime traduire des données complexes en **cartes claires et intelligentes ou en donnees simples visualisable via un dashboard** 🌍.  
 Chaque projet est pour moi une **exploration du monde réel à travers le prisme des données**.
 
 ---
@@ -96,7 +96,7 @@ Les exploiter, c’est comprendre le monde autrement.
 ---
 
 ## 📩 Me Contacter
-💬 [LinkedIn](https://www.linkedin.com/in/Anicet%20NZOUMAFO)  
+💬 [LinkedIn](https://www.linkedin.com/in/geodata-anicet-nzoumafo)  
 📧 **nzoumafoanicet@gmail.com**  
 📱 07 62 68 44 55  
 📍 Orléans, France  
@@ -104,8 +104,10 @@ Les exploiter, c’est comprendre le monde autrement.
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="450">
+  <img src="https://i.giphy.com/3oEjI6SIIHBdRxXI40.gif" width="450">
 </p>
+
+
 
 <p align="center">
   <b>🛰️ Explorons le monde par la donnée.</b><br>
