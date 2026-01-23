@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Geomaticien+Analyst+SIG+%7C+GéoData+Scientist;Passionné+de+données+spatiales;Python+%7C+QGIS+%7C+PostgreSQL;Cartographie+%26+Machine+Learning;Bienvenue+dans+mon+univers+🌐&center=true&width=600&height=45&color=00B4DB">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=+Geomaticien%7C+Analyst+SIG+%7C+GéoData+Scientist;Passionné+de+données+spatiales;Python+%7C+QGIS+%7C+PostgreSQL;Cartographie+%26+Machine+Learning;Bienvenue+dans+mon+univers+🌐&center=true&width=600&height=45&color=00B4DB">
 </p>
 
 <p align="center">
