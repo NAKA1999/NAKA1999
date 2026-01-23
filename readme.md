@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/NAKA1999/NAKA1999/blob/main/CV_Anicet_STAGE_2026" target="_blank">
+  <a href="https://github.com/NAKA1999/NAKA1999/blob/main/CV_Anicet_STAGE_2026.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄 Télécharger%20mon%20CV-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
   </a>
   <a href="mailto:nzoumafoanicet@gmail.com" target="_blank">
