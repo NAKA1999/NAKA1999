@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=+Geomaticien%7C+Analyst+SIG+%7C+GéoData+Scientist;Passionné+de+données+spatiales;Python+%7C+QGIS+%7C+PostgreSQL;Cartographie+%26+Machine+Learning;Bienvenue+dans+mon+univers+🌐&center=true&width=600&height=45&color=00B4DB">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=+Geomaticien%7C+SIG+Data+Engeneer+%7C+GéoData+Scientist;Passionné+de+données+spatiales;Python+%7C+QGIS+%7C+PostgreSQL;Cartographie+%26+Machine+Learning;Bienvenue+dans+mon+univers+🌐&center=true&width=600&height=45&color=00B4DB">
 </p>
 
 <p align="center">
-  <a href="https://github.com/NAKA1999/NAKA1999/blob/main/CV__Anicet_NZOUMAFO%20%C3%80%20KIBONG-1.pdf" target="_blank">
+  <a href="https://github.com/NAKA1999/NAKA1999/blob/main/CV_Anicet_NZOUMAFO.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄 Télécharger%20mon%20CV-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
   </a>
   <a href="mailto:nzoumafoanicet@gmail.com" target="_blank">
@@ -26,7 +26,8 @@
 ---
 
 ## 👋 Salut, moi c’est **Anicet NZOUMAFO**
-> 🛰️ **Etudiant en Master 1 GéoData à l’Université d’Orléans**|SIG Data Engeneer| Géomatique 
+> **Etudiant en Master 1 GéoData à l’Université d’Orléans**|SIG Data Engeneer| Géomatique
+
 En recherche d’une alternance à partir de Septembre 2026 pour mon année de Master 2. Je me spécialise à l’intersection de l’analyse de données massives, des systèmes
 d’information géographique et de modélisation prédictive. Mon expertise consiste à traiter des
 flux géospatiaux complexes afin d’en extraire des tendances et prévisions fiables. Mon objectif :
