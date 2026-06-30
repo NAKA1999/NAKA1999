@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/NAKA1999/NAKA1999/blob/main/CV_Anicet_STAGE_2026.pdf" target="_blank">
+  <a href="https://github.com/NAKA1999/NAKA1999/blob/main/CV__Anicet_NZOUMAFO%20%C3%80%20KIBONG-1.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄 Télécharger%20mon%20CV-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
   </a>
   <a href="mailto:nzoumafoanicet@gmail.com" target="_blank">
@@ -26,27 +26,33 @@
 ---
 
 ## 👋 Salut, moi c’est **Anicet NZOUMAFO**
-> 🛰️ Je me spécialise à l'intersection de l'analyse de données massives, des SIG et de la modélisation prédictive. Mon expertise consiste à traiter des flux géospatiaux complexes pour en extraire des tendances et des prévisions fiables. Mon objectif est de transformer la donnée spatiale en un véritable outil d'aide à la décision stratégique, capable d'anticiper les enjeux de demain.
+> 🛰️ **Etudiant en Master 1 GéoData à l’Université d’Orléans**|SIG Data Engeneer| Géomatique 
+En recherche d’une alternance à partir de Septembre 2026 pour mon année de Master 2. Je me spécialise à l’intersection de l’analyse de données massives, des systèmes
+d’information géographique et de modélisation prédictive. Mon expertise consiste à traiter des
+flux géospatiaux complexes afin d’en extraire des tendances et prévisions fiables. Mon objectif :
+transformer la donnée spatiale en un véritable outil d’aide à la décision stratégique, capable
+d’anticiper les enjeux de demain.
 
-🎓 Étudiant en **Master GéoData (Science de la donnée spatiale)** à l’Université d’Orléans/OSUC  
+🎓 Étudiant en **Master GéoData (Science de la donnée spatiale)** à l’Université d’Orléans/OSUC
+et actuellement en Stage de 5 mois au sein du BRGM(Bureau de Recherche Géologiques et Minières)  
 📍 Basé à **Orléans (France)** - Mobile sur tout le territoire Francais  
-🌐 Mes Objectifs : *valoriser la donnée géographique pour comprendre, prédire et agir durablement.*
+🌐 Mes Objectifs : *valoriser la donnée spatiale pour comprendre, prédire et agir durablement.*
 
 ---
 
 ### 🌍 Ce que je fais
-🗺️ **Analyse & visualisation spatiale** — QGIS, ArcGIS, ENVI, PIX4D  
-📊 **Data Science appliquée** — Python (GeoPandas, Folium, Matplotlib)  
-🧠 **Machine Learning géospatial** — détection d’anomalies, clustering spatial, interpolation  
-💻 **Développement Web SIG** — Leaflet.js, Javascript, Dash  
-📡 **Bases de données spatiales** — PostgreSQL/PostGIS, SQL, R  
+🗺️ **Analyse & visualisation spatiale** - QGIS, ArcGIS online, ArcGIS Pro, ENVI, PIX4D  
+📊 **Data Science appliquée** - Python (GeoPandas, Folium, Matplotlib, rasterio,)  
+🧠 **Machine Learning géospatial** - détection d’anomalies, clustering spatial, interpolation  
+💻 **Développement Web SIG** - Leaflet.js, Javascript, HTML et CSS  
+📡 **Bases de données spatiales** - PostgreSQL/PostGIS, SQL,   
 
 ---
 
 ### 💡 Mes valeurs
-> Curiosité — Créativité — Collaboration — Impact
+> Curiosité - Créativité - Collaboration - Impact 
 
-J’aime traduire des données complexes en **cartes claires et intelligentes ou en donnees simples visualisable via un dashboard** 🌍.  
+J’aime traduire des données complexes en **cartes claires et intelligentes, en donnees simples visualisable via un dashboard, en modèle 3D ou encore en Jumeaux numeriques** 🌍.  
 Chaque projet est pour moi une **exploration du monde réel à travers le prisme des données**.
 
 ---
@@ -55,10 +61,10 @@ Chaque projet est pour moi une **exploration du monde réel à travers le prisme
 
 | Catégorie | Compétences |
 |------------|-------------|
-| 🧭 **SIG & Géomatique** | QGIS, ArcGIS, ENVI, Covadis, PIX4D, Leica Geo Office |
-| 🧮 **Analyse de données** | Python, R, SQL, NumPy, Pandas, Matplotlib, GeoPandas |
+| 🧭 **SIG & Géomatique** | QGIS, ArcGIS, ENVI, Covadis, PIX4D, Leica Geo Office | API OGC(service web)
+| 🧮 **Analyse de données** | Python(NumPy, Pandas, Matplotlib, GeoPandas), R, SQL |
 | 🧱 **Base de données** | PostgreSQL/PostGIS, MySQL |
-| 💻 **Développement Web** | HTML, CSS, JavaScript, PHP, Leaflet.js, Flask |
+| 💻 **Développement Web** | HTML, CSS, JavaScript, PHP, Leaflet.js |
 | ☁️ **Outils & Dev** | GitHub, VSCode, Excel, Power BI |
 | 🤖 **AI & ML** | Scikit-learn, OpenAI API, Modèles de classification et clustering spatiaux |
 
@@ -68,6 +74,7 @@ Chaque projet est pour moi une **exploration du monde réel à travers le prisme
 
 | Projet | Description | Technologies |
 |--------|--------------|--------------|
+| [🗺️ **Modelisation 3D des carrieres souterraines  en region Parisienne**](https://gist.github.com/NAKA1999/2f1c6707d96335408bf343c793406ad7) | Caractérisation et structuration des données des carrières souterraines pour leur modélisation tridimensionnelle. | Qgis, Python |
 | [🗺️ **Carte Interactive des Sites Archéologiques**](https://github.com/NAKA1999/geo-archaeo-map) | Développement d’une carte web interactive des sites archéologiques français. | Leaflet.js, Python, GeoJSON |
 | [🌾 **Analyse de l’Occupation du Sol**](https://github.com/NAKA1999/land-use-analysis) | Étude spatio-temporelle à partir d’imageries satellites. | QGIS, ENVI, Python |
 | [🏙️ **Dashboard GéoData Urbaine**](https://github.com/NAKA1999/geodata-dashboard) | Tableau de bord de suivi des indicateurs territoriaux. | Power BI, PostgreSQL, Python |
@@ -92,7 +99,9 @@ Chaque projet est pour moi une **exploration du monde réel à travers le prisme
 🌍 **Savais-tu que…**
 > 80% des données que nous générons aujourd’hui contiennent une composante géographique 🌐  
 Les exploiter, c’est comprendre le monde autrement.
-
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif" width="200" alt="Globe terrestre en rotation">
+</p>
 ---
 
 ## 📩 Me Contacter
